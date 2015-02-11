@@ -1,0 +1,22 @@
+{
+  "name": "twitter-visualizer",
+  "version": "0.0.1",
+  "homepage": "https://github.com/leoherrick/twitter-visualizer",
+  "authors": [
+    "Leo Herrick"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap":"~3.3.2",
+    "marionette":"~2.3.2",
+    "startbootstrap-sb-admin-2": "~1.0.5"
+  }  
+}
